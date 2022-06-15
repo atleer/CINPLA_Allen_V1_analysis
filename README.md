@@ -4,7 +4,7 @@ Contains code for data analysis and making figures in Rimehaug et al. (2022) (ht
 
 Data files are stored with Git Large File Storage. To download them, install git lfs (https://git-lfs.github.com/) and, in the cloned repository, run:
 
-````bash
+```bash
     $ git lfs pull
 ```
 
