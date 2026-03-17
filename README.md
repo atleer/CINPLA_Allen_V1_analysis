@@ -14,4 +14,4 @@ All packages needed to run the code are provided in the requirements file. Pleas
     $ pip install -r requirements.txt
 ```
 
-Please send any questions or requests to to atle.rimehaug@gmail.com.
+If you have any questions or requests, reach out to me at atle.rimehaug@gmail.com.
