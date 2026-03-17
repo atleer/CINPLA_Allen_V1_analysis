@@ -1,8 +1,8 @@
 # CINPLA Allen V1 analysis
 
-Contains code for data analysis and making figures in Rimehaug et al. (2023) (https://doi.org/10.7554/eLife.87169).
+Contains code for data analysis and making figures in Atle E Rimehaug et al. (2023) Uncovering circuit mechanisms of current sinks and sources with biophysical simulations of primary visual cortex eLife 12:e87169. https://doi.org/10.7554/eLife.87169
 
-Data files are stored with Git Large File Storage. To download them, install git lfs (https://git-lfs.github.com/) and, in the cloned repository, run:
+Data files are stored with Git Large File Storage. To download them, [install git lfs](https://git-lfs.github.com/) and, in the cloned repository, run:
 
 ```bash
     $ git lfs pull
